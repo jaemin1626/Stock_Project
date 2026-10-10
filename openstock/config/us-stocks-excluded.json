@@ -1,0 +1,6173 @@
+{
+  "updatedAt": "2026-10-10T10:31:56.176Z",
+  "excluded": [
+    {
+      "symbol": "AACG",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AACIU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AACIW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AACOU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AACPR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AACPU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AACPW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ABLVW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ABVX",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ACAAU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ACGCU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ACGLN",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ACGLO",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ACONW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ADACU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ADACW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ADAML",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ADAMM",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ADAMN",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ADAMZ",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ADSEW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ADXN",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AEAQW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AERTW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AESPR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AESPU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AGNCL",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AGNCM",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AGNCN",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AGNCO",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AGNCP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AGNCZ",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AHG",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AIIOW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AIRJW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AIRTP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AIXI",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AKTX",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ALAR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ALDFU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ALFUW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ALISU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ALOVU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ALPXR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ALPXU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ALVOW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AMACU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AMBR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AMODW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AMRN",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ANL",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ANNAW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "APACR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "APACU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "APLMW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "APURR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "APXTU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ARBK",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ARCIW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ARGX",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ARLP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ARM",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ARTCU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ASBPW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ASTLW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ATAT",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ATHE",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ATIIW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ATLCP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ATLQR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ATLQU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AUROW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AUTL",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AXINU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BAERW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BANFP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BCCQU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BCCQW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BCTXZ",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BCYC",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BDCIW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BDMDW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BDRX",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BEAGU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BEATW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BENFW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BETRW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BGLWW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BHAVR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BHAVU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BHFAM",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BHFAN",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BHFAO",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BHFAP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BIAFW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BIDU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BIDWR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BILI",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BIVIW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BIXIU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BKHAR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BKHAU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BLRKU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BLRX",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BLTE",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BLUWW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BLZRW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BNAIW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BNCWW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BNR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BNTX",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BPACR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BPACU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BPOPM",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BPYPM",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BPYPN",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BPYPO",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BPYPP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BREZR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BRKHU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BRKRP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BRLSW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BRRKU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BRTMU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BSAAR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BTBDW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BUSEP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BWAY",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BWBBP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BZAIW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BZFDW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BZUN",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CAIIU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CAN",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CAPNU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CATLR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CATLU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CCAQU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CCCTU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CCGWW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CCIIW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CCNEP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CCXIU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CDIOW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CDTTW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CDZIP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CGCFU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CHA",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CHAD",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CHARR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CHARU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CHECU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CHPGR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CHSCL",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CHSCM",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CHSCN",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CHSCO",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CHSCP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CHTRP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CLLS",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CLSKW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CMMB",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CNOBP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "COCHW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "COOTW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CRACR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CRACW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CRANR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CRANU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CRAQU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CRESY",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CTAAR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CTAAU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CUBWW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CUVL",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CXAIW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CXIIU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DAAQU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DAAQW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DBVT",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DFDVW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DFLIW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DFSCW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DMAAR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DMAAU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DMLP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DOYU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DRTSW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DSACW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DSC",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DTSQU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DUKRW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DYNCW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DYORU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "EDBLW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "EFSCP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "EGHAR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "EMISR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ENRD",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "EOSEW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ERIC",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ESLAW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "EUDAW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "EVO",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "EVOXU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "EWAVR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "EWAVU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "EXYNW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FACTW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FACWW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FBIOP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FBYDP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FCNCN",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FCNCO",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FCNCP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FDMMU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FERAR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FERAU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FGBIP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FGCPP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FGIIU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FGIWW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FIGXU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FIGXW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FJDIR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FJDIU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FLDDW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FLX",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FMACR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FMACU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FMSTW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FOCL",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FORTY",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FOXXW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FRMEP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FRSX",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FTAIM",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FTHAW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FUFUW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FULTP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FUTU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FVNNU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FWACR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FWACU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FXACU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FXACW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GCGRU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GDS",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GENVR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GFUZW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GGAL",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GGROW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GHXIU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GHXIW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GIWWR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GIWWU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GIXXR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GIXXU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GLNDW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GMAB",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GNTA",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GOODN",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GOODO",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GOOGM",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GOOGN",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GPACU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GPACW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GPATU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GPCR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GRABW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GRFS",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GRRRW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GRVY",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GSHRU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GSRFR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GSRFU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GSRVR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GSRVU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GTENU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GTERR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GTERU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GUACU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HAVAR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HBANL",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HBANM",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HBANP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HBANZ",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HCACR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HCICR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HCICU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HCM",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HCMAU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HDL",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HDRNW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HEPS",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HERE",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HIMX",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HOLOW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HOVNP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HOVRW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HQWWW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HSCSW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HTHT",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HTZWW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HUBCW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HUBCZ",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HUIZ",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HVMCU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IACOU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ICG",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ICUCW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IDACU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IDACW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IEAGR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IEP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IGACR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IGACU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ILLUU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ILLUW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IMCR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IMMP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IMOS",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IMPPP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IMRN",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IMSRW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IONR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IPFXU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IPFXW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IPHA",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IPHXW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IPVVU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IPXGW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IQ",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IQMX",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IQMXW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IRHOR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IRHOU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ISNRU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ITHAU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IVDAW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "JD",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "JF",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "JFIN",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "JFU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "JG",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "JONER",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "JONEU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "JOYY",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "JZ",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KBONU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KBONW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KC",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KCHVU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KDKRW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KFIIR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KITTW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KOYNU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KRKR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KTWOR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KTWOU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KYIVW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KZIA",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LAFAR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LANDO",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LANDP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LATAU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LATAW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LCCCR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LCFYW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LEDRU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LEGN",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LFACU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LFMDP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LFS",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LI",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LKFT",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LKSPR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LKSPU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LNZAW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LOT",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LOVIU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LPAAW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LPBBW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LPCVW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LRE",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LTGRU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LTRYW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LWACU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LX",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LXEH",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MACIW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MARPS",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MBINL",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MBINM",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MBINN",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MBNKO",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MBVIU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MBVIW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MCAHR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MCAHU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MCGAW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MCHPP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MDCXW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MESHU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MESO",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MEVOU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MIACU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MIACW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MKLYR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MKLYU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MLAAU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MLCO",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MLECW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MMLP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MMTXU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MMTXW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MNSBP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MOLN",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MOMO",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MRCOU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MRCOW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MREO",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MSBIP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MTLS",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MUZEW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MWC",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MYXXR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MYXXU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NAAS",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NAMI",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NAMSW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NBP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NBRGR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NCNA",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NCOOR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NCOOU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NEOVW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NEWTP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NEXRW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NFEGP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NHIVU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NICE",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NICM",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NIOBW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NIPG",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NIU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NMPAU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NNDM",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NOEMW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NOVTU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NPACU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NRSNW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NSAIR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NSAIU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NTES",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NTRSO",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NTWOW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NWGL",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NXATW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NXGLW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OABIW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OACCW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OCCIM",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OCCIN",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OCLTR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OCLTU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OGGWZ",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OHACR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OHACU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OIMAU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OIMAW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OMAB",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ONBPO",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ONBPP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ONC",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ONCHU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ONCHW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ONFOW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ONMDW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OPENL",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OPENW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OPENZ",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OPRA",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OPTXW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ORIQU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ORIQW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OSPRU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OTLY",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OXBRW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OXLCM",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OXLCN",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OXLCO",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OYSER",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OYSEU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OZKAP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PAA",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PAACU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PACHU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PALOU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PARAW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PAXGU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PBMWW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PCAPW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PCLA",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PCTTW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PDC",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PDD",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PECEU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PECEW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PFBC",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PHOS",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PIIIW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PMTRW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "POLEW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "POM",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PONOR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PONOU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PONY",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "POWWP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PPBT",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PRENW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PSQLW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PTACU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PTORU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PTORW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "QADRU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "QADRW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "QFIN",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "QNRX",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "QSEAR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "QSEAU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "QUMSR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "QUMSU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RADX",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RANGR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RANGU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RDACR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RDHL",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "REGCO",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "REGCP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "REVBW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RFAMR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RFAMU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RGTIW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RIBBR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RILYL",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RILYP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RMCOW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RML",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RNAQU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RNGTU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RREVU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RTACW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RUMBW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RVMDW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RVSNW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RYAAY",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SAAQU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SABSW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SAIHW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SATA",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SATLW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SBFMW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SCAG",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SCATR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SCATU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SCIIR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SCIIU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SCLXW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SCNI",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SCPQW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SDAWW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SDSTW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SEATW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SHOTR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SIGIP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SIMAW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SIMO",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SKHY",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SKYAW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SLDPW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SLMBP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SLNHP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SLXNW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SMCIP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SMXWW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SNY",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SOCAU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SOCAW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SOGP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SOHU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SORNW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SOUNW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SPEGR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SPWRW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SQFTP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SSACR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SSACW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SSEAR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "STKH",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "STLNW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "STRC",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "STRD",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "STRF",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "STRK",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "STRRP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SUMAR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SUMAU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SVAQU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SVCCW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SVIAW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SVIVU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SVRE",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SVREW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SWAGW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SWVLW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SXTPW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TACHU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TACOW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TBCVU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TC",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TCOM",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TDACU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TDWDR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "THEOR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "THEOU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TIGR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TKLF",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TLACU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TLNCU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TLSIW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TLX",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TNONW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TOUR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TRGSR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TRGSU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TRIB",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TRVG",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TURB",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TVAIR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TVGNW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TVIVU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TVIVW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TWLVR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TWLVU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "UCFIW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "UCL",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "UMBFO",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "UXIN",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "UYSCR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "UYSCU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VALN",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VCRE",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VEEAW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VEON",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VFSWW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VGASW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VHCPU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VIOT",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VLOSU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VLOSW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VLYPN",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VLYPO",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VLYPP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VNET",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VNMEW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VOD",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VSA",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VSECU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VWAVW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WAFDP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WAVE",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WB",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WENNW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WHLRD",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WHLRP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WLCOU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WLCOW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WLDSW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WRD",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WSBCO",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WSTNU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WTFCN",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WTGUR",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WVVIP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WYHG",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "XBPEW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "XCBEW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "XHG",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "XIIIU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "XLABW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "XNET",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "XRPNU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "XRPNW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "XSLLU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "XTERU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "XTLB",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "YB",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "YI",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "YICCU",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "YMT",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "YOUL",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "YQ",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ZIONP",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ZKPW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ZLAB",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ZOOZW",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AAC.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AAC.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AB",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ABEV",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ABR$D",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ABR$E",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ABR$F",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ACP$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ACR$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ACR$D",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ADC$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AERO",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AGM$D",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AGM$E",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AGM$F",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AGM$G",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AGM$H",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AGM$I",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AHL$D",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AHL$E",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AHL$F",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AHRT$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AHT$D",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AHT$F",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AHT$G",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AHT$H",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AHT$I",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AIIA.R",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AIIA.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ALB$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ALL$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ALL$H",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ALL$I",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ALL$J",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ALTG$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ALUB.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ALUB.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AMH$G",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AMH$H",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AMTD",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AMX",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ANG$D",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ARES$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ARR$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ASB$E",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ASB$F",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ASGI.R",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ASX",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ATH$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ATH$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ATH$D",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ATH$E",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ATHM",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AUB$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AVAL",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AXS$E",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "AZUL",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BA$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BABA",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BAC$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BAC$E",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BAC$K",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BAC$L",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BAC$M",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BAC$N",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BAC$O",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BAC$P",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BAC$Q",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BAC$S",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BANC$F",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BBD",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BBDO",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BC$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BCAT.R",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BCSS.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BCSS.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BCV$A",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BEBE.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BEBE.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BEKE",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BEP",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BEP$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BFH$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BFH$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BFS$D",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BFS$E",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BHP",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BHR$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BHR$D",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BIII.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BIII.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BIP",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BIP$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BIP$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BKKT.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BML$G",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BML$H",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BML$J",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BML$L",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BMNP",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BNY$K",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BOH$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BOH$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BSBR",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BSM",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BW$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "BWIV.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "C$N",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "C$R",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CANF",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CAPL",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CCID",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CCM",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CDR$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CDR$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CELG.R",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CEPU",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CFG$E",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CFG$H",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CFG$I",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CFR$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CFTR$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CHMI$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CHMI$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CIB",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CIG",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CIM$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CIM$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CIM$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CIM$D",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CLBR.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CLBR.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CLDT$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CMCM",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CMRE$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CMRE$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CMRE$D",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CMS$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CMS$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CNF",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CNO$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CODI$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CODI$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CODI$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "COE",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "COF$I",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "COF$J",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "COF$K",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "COF$L",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "COF$N",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "COPL.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "COPL.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "COPR.W",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CPAC",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CQP",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CTA$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CTA$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "CTO$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DAO",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DAVA",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DCOM$",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DDL",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DDS",
+      "exchange": "F",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DDT",
+      "exchange": "F",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DFP",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DGAC.R",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DGAC.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DKL",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DLNG",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DLNG$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DLR$J",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DLR$K",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DLR$L",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DQ",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DRD",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DSX$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DUK$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DUKU",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DX$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DX$D",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "DXF",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "EC",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ECC$D",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ECCC",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ECF$A",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "EDN",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "EFC$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "EFC$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "EFC$D",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "EICA",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "EIIA",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ELPC",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ENIC",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "EONR.W",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "EP$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "EPR$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "EPR$E",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "EPR$G",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "EQH$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "EQH$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ESBA",
+      "exchange": "P",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ET",
+      "exchange": "F",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ET$I",
+      "exchange": "F",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ETI$",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ETSS.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ETSS.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "EVAC.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "EVAC.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "F$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "F$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "F$D",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FBRT$E",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FCRS.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FCRS.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FEDU",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FENG",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FFC",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FHN$E",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FHN$F",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FHN$H",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FINV",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FISK",
+      "exchange": "P",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FITB$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FITB$I",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FITB$K",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FITB$M",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FLG$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FLG$U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FLYX.W",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FMS",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FOIL",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FOUR$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FPF",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FRT$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FTRA.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FTRA.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "FTW.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GAB$G",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GAB$H",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GAB$K",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GAM$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GCTS.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GDV$H",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GDV$K",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GEL",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GFI",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GGN$B",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GGT$E",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GGT$G",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GHG",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GL$D",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GLED.R",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GLED.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GLOP$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GLOP$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GLOP$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GLP",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GLU$A",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GLU$B",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GNL$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GNL$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GNL$D",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GNL$E",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GNT$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GOTU",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GPMT$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GPUS$D",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GRBK$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GS$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GS$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GS$D",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GSK",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GSL$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "GUT$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HFRO$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HFRO$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HIG$G",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HKD",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HL$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HLN",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HPE$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HPI",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HPP$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HPS",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HTT",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HUYA",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "HYAC.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IAUX.W",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ICR$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IH",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IHG",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IIPR$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "INFQ.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "INFY",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "INN$E",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "INN$F",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IRAB.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IRAB.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IRS",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ITUB",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IVR$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "IX",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "JACS.R",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "JACS.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "JENA.R",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "JENA.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "JKS",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "JMIA",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "JPC",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "JPM$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "JPM$D",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "JPM$J",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "JPM$K",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "JPM$L",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "JPM$M",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "JXN$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KCA.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KCAC.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KEY$I",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KEY$J",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KEY$K",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KEY$L",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KIM$L",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KIM$M",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KIM$N",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KKR$D",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KNOP",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KOF",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KPET.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KPET.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KREF$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KRP",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KRSP.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KRSP.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "KTH",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LDP",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LEGO.U",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LEGO.W",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LFT$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LITB",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LNC$D",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LOB$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LTM",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LU",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LUXE",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LXP$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "LYG",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MER$K",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MET$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MET$E",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MET$F",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MFA$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MFA$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MITT$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MITT$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MITT$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MNR",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MNSO",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MOGU",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MPLX",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MS$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MS$E",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MS$F",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MS$I",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MS$K",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MS$L",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MS$O",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MS$P",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MS$Q",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MSC",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MTAL.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MTAL.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MTB$H",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MTB$J",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MTB$K",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MTB$L",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MTNE.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MTNE.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MYND",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MZYX.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "MZYX.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NCV$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NCZ$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NEE$N",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NEE$S",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NEE$T",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NEE$U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NEE$V",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NEE$W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NEN",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NGG",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NGL",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NGL$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NGL$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NIO",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NLY$F",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NLY$G",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NLY$J",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NMM",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NMR",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NOAH",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NOK",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NPFD",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NPWR.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NREF$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NWAX.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NWAX.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NWG",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "NXDT$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OAK$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OAK$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OCAC.R",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OCAC.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OGCP",
+      "exchange": "P",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OPP$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OPP$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OPP$C",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ORCL$D",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OTAI.R",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OTAI.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "OZ",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PAII.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PAII.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PBI$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PBR.A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PCG$A",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PCG$B",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PCG$C",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PCG$D",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PCG$E",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PCG$G",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PCG$H",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PCG$I",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PCG$X",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PDPA",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PEB$E",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PEB$F",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PEB$G",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PEB$H",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PEW.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PFD",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PFFL",
+      "exchange": "P",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PFO",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PHXE$",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PINE$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PKX",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PLUN.R",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PLUN.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PMT$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PMT$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PMT$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PNAQ.R",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PNAQ.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PNFP$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PNFP$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PNFP$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PORT.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PPLC",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PRIF$D",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PRIF$K",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PRIF$L",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PRT",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PSA$F",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PSA$G",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PSA$H",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PSA$I",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PSA$J",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PSA$K",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PSA$L",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PSA$M",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PSA$N",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PSA$O",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PSA$P",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PSA$Q",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PSA$R",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PSA$S",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PSA$T",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PSA$U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PSEC$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PSF",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PTA",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PVL",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "PW$A",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "QLEP.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "QRED.R",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "QRED.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "QXO$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RAC.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RAC.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RC$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RC$E",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RELX",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RERE",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "REXR$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "REXR$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RF$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RF$E",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RF$F",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RITM$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RITM$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RITM$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RITM$D",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RITM$E",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RITM$F",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RIV$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RLJ$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RLX",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RNP",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RNR$F",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RNR$G",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RPT$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RTO",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "RWT$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SAC.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SAC.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SACH$A",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SAGU.R",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SAGU.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SAMO.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SAMO.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SB$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SB$D",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SBS",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SBXE.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SBXE.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SCE$G",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SCE$L",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SCE$M",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SCE$N",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SCHW$D",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SCHW$J",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SE",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SEAL$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SEAL$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SF$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SF$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SF$D",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SHEL",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SHG",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SHO$H",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SHO$I",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SIM",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SKYH.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SLG$I",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SMFG",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SNUS$H",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SNUS$I",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SOMN",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SONY",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SOUL.R",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SOUL.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SPE$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SPG$J",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SPMA",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SPME",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SQNS",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SRG$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SSL",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "STG",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "STT$G",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SUN",
+      "exchange": "F",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SUNC",
+      "exchange": "F",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SUPV",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SUZ",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SYF$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "SYF$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "T$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "T$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TAK",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TAL",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TCBI",
+      "exchange": "F",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TCBI$B",
+      "exchange": "F",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TDS$U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TDS$V",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TEN$E",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TEN$F",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TFC$I",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TFC$O",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TFC$R",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TFIN$",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TGE.W",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TIMB",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TME",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TONT.U",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TONT.W",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TRAD.R",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TRAD.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TRTN$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TRTN$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TRTN$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TRTN$D",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TRTN$E",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TRTN$F",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TRTN$G",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TRTX$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TS",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TUYA",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TX",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TXO",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "TY$",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "UAC.U",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "UAC.W",
+      "exchange": "A",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "UAN",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "UGP",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "UL",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "UMH$D",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "USAC",
+      "exchange": "F",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "USB$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "USB$H",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "USB$P",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "USB$Q",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "USB$R",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "USB$S",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VALE",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VECA.R",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VECA.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VII.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VIPS",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VIST",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VIV",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VLRS",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VNO$L",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VNO$M",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VNO$N",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VNO$O",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VOC",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VOYA$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "VTMX",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WAL$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WDH",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WDS",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WENC.R",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WENC.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WES",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WF",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WFC$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WFC$C",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WFC$D",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WFC$L",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WFC$Y",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WFC$Z",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WHR$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WLKP",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WPAC.R",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WPAC.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WPP",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WRB$E",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WRB$F",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WRB$G",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "WRB$H",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "XFLH.R",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "XFLH.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "XIFR",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "XPEV",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "XRN$A",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "XRN$B",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "XYF",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "YALA",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "YCY.U",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "YCY.W",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "YMM",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "YPF",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "YRD",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "YSG",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ZEPP",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ZH",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ZKH",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    },
+    {
+      "symbol": "ZTO",
+      "exchange": "N",
+      "reason": "종목 유형/티커 매핑 확인 필요"
+    }
+  ]
+}
